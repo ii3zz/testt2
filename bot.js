@@ -10,4 +10,4 @@ channel.send(`حط الكلام اللي تبغاه هنا`);
 }, 30)
 })
 
-client.login(process.env.BOT_TOKEN);
+client.login('NjU2NDM0OTg1MDY2Mjk5Mzky.XfiwyA.tjr6ZCcVbi-31BpSb-aKMy26Bdw');
